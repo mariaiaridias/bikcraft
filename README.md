@@ -1,2 +1,3 @@
-# bikcraft
-Proposta de desenvolvimento de loja virtual.
+# Bikcraft
+
+- Proposta de desenvolvimento de loja virtual.
